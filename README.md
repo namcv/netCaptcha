@@ -38,4 +38,4 @@ in your html:
 
 
 ```
-![Alt text](https://github.com/phpnetanel/netSlider/blob/master/captcha.PNG "netCaptcha")
+![Alt text](https://github.com/phpnetanel/netCaptcha/blob/master/captcha.PNG "netCaptcha")
