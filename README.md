@@ -1,7 +1,7 @@
 netCaptcha
 ==========
 
-simple angular validation captcha
+simple angular validation captcha, generate two numbers and check if the user enter the sum of them.
 
 in your app:
 ```js
